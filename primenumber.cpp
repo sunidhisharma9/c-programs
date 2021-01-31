@@ -29,5 +29,5 @@ int main()
 	{cout<<"PRIME NUMBER";
 	}
 	else
-	cout<<"COMPOSITE NUMBER";
+	cout<<"NOT A PRIME NUMBER";
 }
